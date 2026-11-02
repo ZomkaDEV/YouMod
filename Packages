@@ -1,0 +1,48 @@
+Package: dev.water888.youmod
+Version: 6
+Architecture: iphoneos-arm64e
+Maintainer: Tonwalter888, G Rohit
+Installed-Size: 30396
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: debs/dev.water888.youmod_6_iphoneos-arm64e.deb
+Size: 8148964
+MD5sum: b29ad85863af0b9b37cf9d037caac6ec
+SHA1: 167aaf9de732a7bca24e0487c4f822a2deec4eff
+SHA256: 41ee04183bb2f7745aa639f323b0d7860ddf0970cb17c739feb66d352827b4c1
+Section: Tweaks
+Description: A lightweight YouTube enhancer
+Author: Tonwalter888
+Name: YouMod
+
+Package: dev.water888.youmod
+Version: 6
+Architecture: iphoneos-arm
+Maintainer: Tonwalter888, G Rohit
+Installed-Size: 30396
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: debs/dev.water888.youmod_6_iphoneos-arm.deb
+Size: 8148120
+MD5sum: f7e3aa103be5e4f45c2a280ad2adf199
+SHA1: 817059357922d6aebc53e1bf72f668439dbe6603
+SHA256: b3bc242c9cf2f169ffe229dc6c811a40fb263e4b019f4efb5f41dffaf4f938a7
+Section: Tweaks
+Description: A lightweight YouTube enhancer
+Author: Tonwalter888
+Name: YouMod
+
+Package: dev.water888.youmod
+Version: 6
+Architecture: iphoneos-arm64
+Maintainer: Tonwalter888, G Rohit
+Installed-Size: 30396
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: debs/dev.water888.youmod_6_iphoneos-arm64.deb
+Size: 8147692
+MD5sum: 04693c36cb4d87c59981aa1e91cfcf19
+SHA1: c9485c131e1ead5083d50b22be3344597722be8d
+SHA256: 026e3498635e8e946affcf4cf878ef65c52be31ba651d99443f4a4229567920f
+Section: Tweaks
+Description: A lightweight YouTube enhancer
+Author: Tonwalter888
+Name: YouMod
+
